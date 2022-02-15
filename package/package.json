@@ -1,0 +1,13 @@
+{
+  "name": "com.dotdust.template.vr",
+  "displayName": "OpenXR VR",
+  "version": "1.0.0",
+  "type": "template",
+  "unity": "2021.2",
+  "description": "OpenXR with Oclus Quest 2 VR template",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dotdust/UnityOpenXRTemplate.git"
+  }
+}
